@@ -3,7 +3,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 
-public class BMI_CSC215_Metric_RochakKadel
+public class metricRochak
 {
 
     static Scanner input = new Scanner(System.in);
